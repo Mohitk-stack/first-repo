@@ -1,2 +1,2 @@
-int funv();
+int func()
 
