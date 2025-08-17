@@ -1,1 +1,1 @@
-void funv();
+bool funv();
