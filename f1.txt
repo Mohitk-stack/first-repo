@@ -1,1 +1,1 @@
-void funv();
+int funv();
