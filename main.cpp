@@ -1,3 +1,3 @@
 #include "Warrior.h"
-int MAINFUNC () {}
+int MAINFUNCTION () {}
 
